@@ -1,0 +1,26 @@
+.subtitle{
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.gallery{
+  display: grid;
+  height: 800px;
+  grid-template-rows: repeat(4, 1fr);
+  gap: 1px;
+  .imgContainer{
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img{
+      width: 100%;
+    }
+  }
+}
+
+@media screen and (min-width: 700px){
+  .gallery{
+    height: 1400px;
+  }
+}

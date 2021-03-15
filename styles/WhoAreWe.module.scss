@@ -1,0 +1,22 @@
+.subtitle{
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+.card{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  .imageContainer{
+    height: 100px;
+    width: 100px;
+    overflow: hidden;
+    border-radius: 50%;
+    img{
+      height: 100%;
+    }
+  }
+  p{
+    width: 60vw;
+  }
+}
