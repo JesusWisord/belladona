@@ -6,7 +6,7 @@ const Hero = () => {
     <>
       <main className={styles.hero}>
         <div className={styles.textContainer}>
-          <h1>Beladona</h1>
+          <img src="/logo_beladona.PNG"/>
           <p>
             Arreglos florales para toda ocasión. Tenemos servicios para eventos
           </p>
