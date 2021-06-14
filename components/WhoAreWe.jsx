@@ -9,7 +9,7 @@ const WhoAreWe = () => (
         <img src="/pp.JPG" />
       </div>
       <p>
-        Somos una empresa joven que surge de la idea de crear diseño floral diferente a lo normal y de buen gusto. 
+        Somos una empresa con la misión de crear diseño floral elegante. Nuestras creaciones son algo diferente de lo común con un estilo sobrio y refinado. Definimos nuestro trabajo como “chic floral” y nos encanta deleitar a nuestros clientes con lindos diseños y flores de alta calidad.
       </p>
     </div>
   </>
